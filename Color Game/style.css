@@ -1,5 +1,4 @@
 #title{
-    background-color: black;
     width: 100%;
     height: 200px;
     margin: 0px;
@@ -16,6 +15,7 @@
     text-align: center;
     border-bottom: 3px solid black;
     padding-bottom: 7px;
+    box-shadow: inset 0 0 10px gray
 }
 .colorb{
     width: 200px;
